@@ -1,5 +1,5 @@
 # Simulated Likelihood Estimators for-Discretely Observed Jump Diffusions
-*Journal of Econometrics, forthcoming* 
+*Journal of Econometrics*, forthcoming
 ### Authors
 Kay Giesecke, Gustavo Schwenkler
 ### Abstract
